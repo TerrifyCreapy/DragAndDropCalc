@@ -1,0 +1,23 @@
+.line {
+    width: 244px;
+    height: 2px;
+    background-color: #5D5FEF;
+    position: absolute;
+    margin-top: -4px;
+}
+
+.line:before,
+.line:after {
+    content: "";
+    height: 5px;
+    width: 5px;
+    background-color: #5D5FEF;
+    display: block;
+    margin-top: -2px;
+    transform: rotate(45deg);
+}
+
+.line:after {
+    float: right;
+    margin-top: -5px;
+}

@@ -1,0 +1,14 @@
+.display {
+    font-size: 19px;
+    font-weight: bold;
+    display: flex;
+    height: 52px;
+    justify-content: flex-end;
+    background-color: #F3F4F6;
+    align-items: center;
+    padding: 0px 8px;
+    border-radius: 6px;
+
+    grid-column-start: 1;
+    grid-column-end: 5;
+}

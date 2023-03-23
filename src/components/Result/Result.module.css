@@ -1,0 +1,11 @@
+.result {
+    background-color: #5D5FEF;
+    color: white;
+    display: grid;
+    grid-template-rows: 64px;
+    border-radius: 6px;
+    justify-items: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+}

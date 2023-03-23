@@ -1,0 +1,14 @@
+.drop__container {
+    border: 2px dashed #C4C4C4;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    opacity: 1;
+}
+
+.calculator__side {
+    grid-column-start: 2;
+}

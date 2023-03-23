@@ -1,0 +1,24 @@
+.state {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+
+    padding: 6px 0;
+    font-size: 14px;
+    font-weight: 500;
+
+    cursor: pointer;
+
+}
+
+.active {
+    border: 1px solid #E2E3E5;
+    background-color: white;
+    border-radius: 6px;
+}
+
+.nonactive {
+
+}

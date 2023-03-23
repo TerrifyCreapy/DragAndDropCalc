@@ -1,0 +1,11 @@
+svg {
+    margin-top: 1px;
+}
+
+.active path {
+    stroke: blue;
+}
+
+.nonactive path {
+    stroke: #1d1d1d;
+}

@@ -1,0 +1,8 @@
+.actions__container {
+    display:grid;
+    grid-template-columns: repeat(4, 52px);
+    grid-template-rows: 48px;
+    grid-column-gap: 8px;
+    font-size: 14px;
+    font-weight: bold;
+}

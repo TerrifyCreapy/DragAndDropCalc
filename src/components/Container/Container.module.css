@@ -1,0 +1,11 @@
+.container {
+    width: 535px;
+    height: 516px;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: repeat(2 ,243px);
+    grid-template-rows: 38px 460px;
+    grid-row-gap: 30px;
+    grid-column-gap: 56px;
+    padding: 38px 80px 86px 80px;
+}
